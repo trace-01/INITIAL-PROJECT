@@ -6,6 +6,6 @@
 This Dashboard I created by utilizing Mo Chen dataset and online tutorial. It collects house pricing of King's County located in Washington state throughout the years.  
 *<br>1. Used excel  file Housedata dataset*
 *<br>2. Used distinct Tableau tools*
-*<br>3. The intent for the dashboard is to demostrate how size and location effect the house sale price in King's count between 2014-2015*
+*<br>3. The intent for the dashboard is to demostrate how size and location effect the house sale price in King's county between 2014-2015*
  
 
