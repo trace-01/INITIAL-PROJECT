@@ -7,6 +7,6 @@ This Dashboard I created by utilizing Mo Chin Data Set and tutorial which is the
 
 *<br>1. Used excel  file Housedata dataset</br>*
 *<br>2. Used distinct Tableau tools</br>*
-*<br>3. The intent for the dashboard is to demostrate how the size and location effect the house sale price in King county on over a period of time*</br>*
+*<br>3. The intent for the dashboard is to demostrate how the size and location effect the house sale price in King county on over a period of time</br>*
  
 
