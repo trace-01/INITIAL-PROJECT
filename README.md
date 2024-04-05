@@ -5,8 +5,8 @@
 # {Kings County House Sales Dashboard} (https://public.tableau.com/app/profile/tracy.fernandez2960/viz/KingCountyHouseSalesDashboard_17122833261210/KingCountyHouseSales)
 This Dashboard I created by utilizing Mo Chin Data Set and tutorial which is the collection of house prices of Kings County located in Washington state 
 
-*1. Used excel  file Housedata dataset
-2. Used distinct Tableau tools
-3. The intent for the dashboard is to demostrate how the size and location effect the house sale price in King county on over a period of time*
+*<br>1. Used excel  file Housedata dataset</br>
+<br>2. Used distinct Tableau tools</br>
+<br>3. The intent for the dashboard is to demostrate how the size and location effect the house sale price in King county on over a period of time*</br>
  
 
